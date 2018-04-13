@@ -1,0 +1,74 @@
+@import url("../twentyfifteen/style.css");
+/*
+Theme Name: EAOnline theme 
+Description: This is a child theme of the twenty-fifteen theme for the EA, Inc employee website
+Author: Reach Marketing
+Author URI: http: //www.reachmaine.com/
+Template: twentyfifteen
+Version: 1.0
+*/
+/* Colors ---------------------------------------------- */
+/* Typography ------------------------------------------ */
+/* --------- Contact form 7 styling --------------*/
+.wpcf7 .wpcf7-form .wpcf7-form-control-wrap input.wpcf7-date {
+  padding-top: 10px;
+  padding-bottom: 10px; }
+.wpcf7 .wpcf7-form h6 {
+  margin-top: 30px;
+  margin-bottom: 0px; }
+.wpcf7 .wpcf7-form dl, .wpcf7 .wpcf7-form dd, .wpcf7 .wpcf7-form dt {
+  margin-bottom: 0px !important; }
+.wpcf7 .wpcf7-form dl dt {
+  display: inline-block;
+  text-align: right;
+  min-width: 110px;
+  margin-top: 0px; }
+.wpcf7 .wpcf7-form dl dd {
+  padding-left: 10px;
+  display: inline-block;
+  width: 80%; }
+  .wpcf7 .wpcf7-form dl dd .your-message {
+    margin-top: 1px; }
+  .wpcf7 .wpcf7-form dl dd h6 {
+    margin-bottom: 10px;
+    margin-top: 20px;
+    line-height: initial;
+    font-weight: bold;
+    font-size: 1.1em; }
+.wpcf7 .wpcf7-form dl dd.mdih-inline .wpcf7-form-control-wrap .wpcf7-form-control.wpcf7-radio .wpcf7-list-item {
+  display: inline-block;
+  padding-right: 15px; }
+.wpcf7 .wpcf7-form dl.eai-inline2 dd {
+  width: initial; }
+.wpcf7 .wpcf7-form dl.eai-inline2 dt.eai-2nd {
+  width: initial;
+  min-width: 80px; }
+.wpcf7 .wpcf7-form dl.eai-inline2 dd.eai-2nd {
+  width: 25%; }
+
+/* --------- End Contact form 7  --------------*/
+/* =Theme customization starts here */
+/* ----  Media Settings --------------------------------- */
+/* break points in twentyfifteen*/
+/**
+ * 16.1 Mobile Large 620px
+ */
+/**
+ * 16.2 Tablet Small 740px
+ */
+/**
+ * 16.3 Tablet Large 880px
+ */
+/**
+ * 16.4 Desktop Small 955px
+ */
+/**
+ * 16.5 Desktop Medium 1100px
+ */
+/**
+ * 16.6 Desktop Large 1240px
+ */
+/**
+ * 16.7 Desktop X-Large 1403px
+ */
+/* end Media Settings ------------------------------------------ */
