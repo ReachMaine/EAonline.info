@@ -45,30 +45,15 @@ Version: 1.0
   min-width: 80px; }
 .wpcf7 .wpcf7-form dl.eai-inline2 dd.eai-2nd {
   width: 25%; }
-
+
+.eai-cf7-med {
+  max-width: 200px;
+}
+.eai-cf7-textarea-med {
+  max-height: 200px;
+}
 /* --------- End Contact form 7  --------------*/
 /* =Theme customization starts here */
-/* ----  Media Settings --------------------------------- */
-/* break points in twentyfifteen*/
-/**
- * 16.1 Mobile Large 620px
- */
-/**
- * 16.2 Tablet Small 740px
- */
-/**
- * 16.3 Tablet Large 880px
- */
-/**
- * 16.4 Desktop Small 955px
- */
-/**
- * 16.5 Desktop Medium 1100px
- */
-/**
- * 16.6 Desktop Large 1240px
- */
-/**
- * 16.7 Desktop X-Large 1403px
- */
-/* end Media Settings ------------------------------------------ */
+.eai-indent {
+  padding-left:30px;
+}
