@@ -1,6 +1,6 @@
 @import url("../twentyfifteen/style.css");
 /*
-Theme Name: EAOnline theme 
+Theme Name: EAOnline theme
 Description: This is a child theme of the twenty-fifteen theme for the EA, Inc employee website
 Author: Reach Marketing
 Author URI: http: //www.reachmaine.com/
@@ -66,3 +66,6 @@ Version: 1.0
 /* =Theme customization starts here */
 .eai-indent {
   padding-left: 30px; }
+
+.site-info {
+  padding: 0px; }
