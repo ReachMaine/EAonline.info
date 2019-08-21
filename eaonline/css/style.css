@@ -69,3 +69,26 @@ Version: 1.0
 
 .site-info {
   padding: 0px; }
+
+#menu-top-menu .eai-cal-pub a {
+  color: #0B8043; }
+#menu-top-menu .eai-cal-press a {
+  color: black; }
+#menu-top-menu .eai-cal-adv a {
+  color: red; }
+#menu-top-menu .eai-cal-prod a {
+  color: #37c179; }
+#menu-top-menu .eai-cal-news a {
+  color: #3578bf; }
+#menu-top-menu .eai-cal-comp a {
+  color: pink; }
+#menu-top-menu .eai-cal-reach a {
+  color: purple; }
+#menu-top-menu .eai-cal-comp a span,
+#menu-top-menu .eai-cal-pub a span,
+#menu-top-menu .eai-cal-adv a span,
+#menu-top-menu .eai-cal-news a span,
+#menu-top-menu .eai-cal-press a span,
+#menu-top-menu .eai-cal-prod a span,
+#menu-top-menu .eai-cal-reach a span {
+  color: #333; }

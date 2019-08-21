@@ -25,3 +25,37 @@ Version: 1.0
 .site-info {
   padding: 0px;
 }
+
+#menu-top-menu {
+  .eai-cal-pub a {
+    color: #0B8043; // dk green
+  }
+  .eai-cal-press a {
+    color: black;
+  }
+  .eai-cal-adv a {
+    color: red; // red
+  }
+  .eai-cal-prod a {
+    color: #37c179; // light green
+  }
+  .eai-cal-news a {
+    color: #3578bf; // blue
+  }
+  .eai-cal-comp a {
+    color: pink; // pink
+  }
+  .eai-cal-reach a {
+    color: purple;
+  }
+  .eai-cal-comp a span,
+  .eai-cal-pub a span,
+  .eai-cal-adv a span,
+  .eai-cal-news a span,
+  .eai-cal-press a span,
+  .eai-cal-prod a span,
+  .eai-cal-reach a span
+   {
+    color:  #333;
+  }
+}
