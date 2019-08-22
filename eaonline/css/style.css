@@ -80,6 +80,8 @@ Version: 1.0
   color: #37c179; }
 #menu-top-menu .eai-cal-news a {
   color: #3578bf; }
+#menu-top-menu .eai-cal-mdi a {
+  color: #2C839C; }
 #menu-top-menu .eai-cal-comp a {
   color: pink; }
 #menu-top-menu .eai-cal-reach a {
@@ -88,6 +90,7 @@ Version: 1.0
 #menu-top-menu .eai-cal-pub a span,
 #menu-top-menu .eai-cal-adv a span,
 #menu-top-menu .eai-cal-news a span,
+#menu-top-menu .eai-cal-mdi a span,
 #menu-top-menu .eai-cal-press a span,
 #menu-top-menu .eai-cal-prod a span,
 #menu-top-menu .eai-cal-reach a span {
